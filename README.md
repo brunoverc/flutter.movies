@@ -6,7 +6,7 @@ This is a Flutter project that consumes the TMDB (The Movie Database) API to fet
 
 The Movie Database (TMDb) is a free and open-source database of movies and TV series. This project uses the TMDb API to display information about popular movies, including details like release date, synopsis, and more.
 
-![Screenshot 2023-10-18 at 11 00 52](https://github.com/brunoverc/flutter.movies/assets/69854207/c5054d51-e88c-4bad-aefb-9647b40df023)
+![Screenshot 2023-10-18 at 11 02 13](https://github.com/brunoverc/flutter.movies/assets/69854207/35d32f49-8428-4e78-b828-79aa9a040f13)
 ![Screenshot 2023-10-18 at 11 01 14](https://github.com/brunoverc/flutter.movies/assets/69854207/055c5982-cd01-46b9-893a-b580690d7977)
 
 
