@@ -8,7 +8,7 @@ The Movie Database (TMDb) is a free and open-source database of movies and TV se
 
 <img width="378" alt="Screenshot 2023-10-18 at 10 56 23" src="https://github.com/brunoverc/flutter.movies/assets/69854207/b27ebc49-6125-45dd-9b12-97aecd6358c5">
 
-<img width="384" alt="Screenshot 2023-10-18 at 10 56 49" src="https://github.com/brunoverc/flutter.movies/assets/69854207/c3644857-3a05-48b4-a8cf-6d7cd2c69a97">
+<img width="378" alt="Screenshot 2023-10-18 at 10 56 49" src="https://github.com/brunoverc/flutter.movies/assets/69854207/c3644857-3a05-48b4-a8cf-6d7cd2c69a97">
 
 
 ## Project Features
